@@ -1,0 +1,67 @@
+---------------------------------------------------
+Release for rtl8192CE linux driver
+
+---------------------------------------------------------------------------------------------
+Operating system release = Ubuntu 10.04 
+Kernel version = 2.6.33
+Release driver version = 0001.0421.2010
+Release date = 2010-04-21
+Change history =
+	1. First Release for 8192CE.
+
+
+Operating system release = Ubuntu 10.04 
+Kernel version = 2.6.32/2.6.33/2.6.34
+Release driver version = 0002.0510.2010
+Release date = 2010-05-11
+Change history =
+	1. update firmware to FW46.
+	2. Fix Netgear3500N TP low issue.
+	3. Fix Linksys610N TKIP TP low issue.
+	4. Open 11N for broadcom & ralink TKIP.
+	5. Test pass on ubuntu 10.04 2.6.32/2.6.33/2.6.34.
+
+
+Operating system release = Ubuntu 10.04 
+Kernel version = 2.6.32/2.6.33/2.6.34
+Release driver version = 0003.0707.2010
+Release date = 2010-07-07
+Change history =
+	1. Add HP VID/PID.
+	2. Add LED open drian.
+	3. Add CRDA.
+	4. Test pass on RedFlag-7 & open-SUSE 11.2
+	5. Fix WEP as Group key issue.
+	6. Fix G mode rate show wrong issue.
+	7. Fix B mode TxRate wrong issue.
+	8. Fix 20MHZ N rate show wrong issue.
+
+Operating system release = Ubuntu 10.04 
+Kernel version = 2.6.32/2.6.33/2.6.34
+Release driver version = 0004.0715.2010
+Release date = 2010-07-15
+Change history =
+	1. Fix DIR655 throughput low issue.
+	2. Update firmware.
+	3. Fix rate show wrong issue.
+
+Operating system release = Ubuntu 10.10 
+Kernel version = 2.6.32/2.6.33/2.6.34/2.6.36/2.6.37
+Release driver version = 0005.0211.2011
+Release date = 2011-02-11
+Change history =
+	1. Update firmware.
+	2. add support for HP Tozai.
+	3. support kernel 2.6.37.
+	4. Fix Dir655 11B TP issue.
+	5. close 11N for WEP & TKIP.
+	6. Fix LED issue because power save.
+	7. Fix iwlist wlan0 scan signal level showing error
+
+Operating system release = Ubuntu 10.10 
+Kernel version = 2.6.32/2.6.33/2.6.34/2.6.36/2.6.37
+Release driver version = 0006.0321.2011
+Release date = 2011-03-21
+Change history =
+	1. Fix OpenSUSE reboot hang issue while radio off
+
