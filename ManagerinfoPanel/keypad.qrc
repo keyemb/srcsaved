@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/keypad">
+        <file>picture/keypad/backspace.png</file>
+        <file>picture/keypad/down.png</file>
+        <file>picture/keypad/keyboard.jpg</file>
+        <file>picture/keypad/left.png</file>
+        <file>picture/keypad/right.png</file>
+        <file>picture/keypad/top.png</file>
+    </qresource>
+    <qresource prefix="/new/main">
+        <file>picture/manager.png</file>
+        <file>picture/logo.png</file>
+    </qresource>
+</RCC>
